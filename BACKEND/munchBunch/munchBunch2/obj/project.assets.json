@@ -5744,11 +5744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jaimiejin/Documents/munchBunch/BACKEND/munchBunch/munchBunch2/munchBunch.csproj",
+      "projectUniqueName": "/Users/jaimiejin/Downloads/munchBunch/BACKEND/munchBunch/munchBunch2/munchBunch.csproj",
       "projectName": "munchBunch",
-      "projectPath": "/Users/jaimiejin/Documents/munchBunch/BACKEND/munchBunch/munchBunch2/munchBunch.csproj",
+      "projectPath": "/Users/jaimiejin/Downloads/munchBunch/BACKEND/munchBunch/munchBunch2/munchBunch.csproj",
       "packagesPath": "/Users/jaimiejin/.nuget/packages/",
-      "outputPath": "/Users/jaimiejin/Documents/munchBunch/BACKEND/munchBunch/munchBunch2/obj/",
+      "outputPath": "/Users/jaimiejin/Downloads/munchBunch/BACKEND/munchBunch/munchBunch2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jaimiejin/.config/NuGet/NuGet.Config"

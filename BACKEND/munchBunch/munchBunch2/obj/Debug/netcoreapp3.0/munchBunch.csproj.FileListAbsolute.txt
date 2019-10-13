@@ -4,3 +4,9 @@
 /Users/jaimiejin/Documents/munchBunch/BACKEND/munchBunch/munchBunch2/obj/Debug/netcoreapp3.0/munchBunch.MvcApplicationPartsAssemblyInfo.cache
 /Users/jaimiejin/Documents/munchBunch/BACKEND/munchBunch/munchBunch2/obj/Debug/netcoreapp3.0/munchBunch.AssemblyInfoInputs.cache
 /Users/jaimiejin/Documents/munchBunch/BACKEND/munchBunch/munchBunch2/obj/Debug/netcoreapp3.0/munchBunch.AssemblyInfo.cs
+/Users/jaimiejin/Downloads/munchBunch/BACKEND/munchBunch/munchBunch2/obj/Debug/netcoreapp3.0/munchBunch.csprojAssemblyReference.cache
+/Users/jaimiejin/Downloads/munchBunch/BACKEND/munchBunch/munchBunch2/obj/Debug/netcoreapp3.0/staticwebassets/munchBunch.StaticWebAssets.Manifest.cache
+/Users/jaimiejin/Downloads/munchBunch/BACKEND/munchBunch/munchBunch2/obj/Debug/netcoreapp3.0/staticwebassets/munchBunch.StaticWebAssets.xml
+/Users/jaimiejin/Downloads/munchBunch/BACKEND/munchBunch/munchBunch2/obj/Debug/netcoreapp3.0/munchBunch.MvcApplicationPartsAssemblyInfo.cache
+/Users/jaimiejin/Downloads/munchBunch/BACKEND/munchBunch/munchBunch2/obj/Debug/netcoreapp3.0/munchBunch.AssemblyInfoInputs.cache
+/Users/jaimiejin/Downloads/munchBunch/BACKEND/munchBunch/munchBunch2/obj/Debug/netcoreapp3.0/munchBunch.AssemblyInfo.cs
