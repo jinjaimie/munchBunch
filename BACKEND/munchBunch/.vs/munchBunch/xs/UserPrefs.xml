@@ -1,9 +1,20 @@
 ﻿<Properties StartupConfiguration="{F481D64B-CAD0-4578-9041-8BE96D10DA4B}|munchBunch2">
-  <MonoDevelop.Ide.Workbench ActiveDocument="munchBunch2/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="munchBunch2/WeatherForecast.cs">
     <Files>
       <File FileName="munchBunch2/Models/LoginModel.cs" Line="9" Column="2" />
-      <File FileName="munchBunch2/Startup.cs" Line="53" Column="1" />
-      <File FileName="munchBunch2/Controllers/ValuesController.cs" />
+      <File FileName="munchBunch2/Startup.cs" Line="20" Column="21" />
+      <File FileName="munchBunch2/Controllers/ValuesController.cs" Line="9" Column="21" />
+      <File FileName="munchBunch2/Controllers/UserProfileController.cs" Line="1" Column="1" />
+      <File FileName="munchBunch2/Controllers/ApplicationUserController.cs" Line="1" Column="1" />
+      <File FileName="munchBunch2/Models/ApplicationSettings.cs" Line="1" Column="1" />
+      <File FileName="munchBunch2/Models/ApplicationUser.cs" Line="1" Column="1" />
+      <File FileName="munchBunch2/Models/ApplicationUserModel.cs" Line="1" Column="1" />
+      <File FileName="munchBunch2/Models/AuthenticationContext.cs" Line="1" Column="1" />
+      <File FileName="munchBunch2/Properties/launchSettings.json" Line="38" Column="2" />
+      <File FileName="munchBunch2/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="munchBunch2/appsettings.json" Line="1" Column="1" />
+      <File FileName="munchBunch2/Program.cs" Line="10" Column="21" />
+      <File FileName="munchBunch2/WeatherForecast.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +25,6 @@
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
               <Node name="appsettings.json" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>

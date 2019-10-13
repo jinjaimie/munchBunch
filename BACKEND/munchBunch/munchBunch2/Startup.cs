@@ -17,7 +17,7 @@ using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using munchBunch.Models;
 
-namespace munchBunch2
+namespace munchBunch
 {
     public class Startup
     {
@@ -35,7 +35,6 @@ namespace munchBunch2
             services.Configure<ApplicationSettings>(Configuration.GetSection("ApplicationSettings"));
 
             services.AddMvc();
-            MvcOptions.EnableEndpointRouting = false;
 
             services.AddDbContext<AuthenticationContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("IdentityConnection")));

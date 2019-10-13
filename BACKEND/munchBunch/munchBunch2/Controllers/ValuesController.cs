@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using munchBunch.Models;
 
-namespace munchBunch2.Controllers
+namespace munchBunch.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
