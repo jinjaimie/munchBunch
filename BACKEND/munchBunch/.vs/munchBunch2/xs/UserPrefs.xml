@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{F481D64B-CAD0-4578-9041-8BE96D10DA4B}|Default">
+  <MonoDevelop.Ide.ItemProperties.munchBunch2 FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="munchBunch2/Controllers/ApplicationUserController.cs">
+    <Files>
+      <File FileName="munchBunch2/WeatherForecast.cs" Line="7" Column="9" />
+      <File FileName="munchBunch2/Models/AuthenticationContext.cs" Line="13" Column="30" />
+      <File FileName="munchBunch2/Models/ApplicationUser.cs" Line="11" Column="1" />
+      <File FileName="munchBunch2/Models/ApplicationUserModel.cs" Line="10" Column="6" />
+      <File FileName="munchBunch2/Controllers/ApplicationUserController.cs" Line="10" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="munchBunch2" expanded="True">
+            <Node name="munchBunch2" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ApplicationUserController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

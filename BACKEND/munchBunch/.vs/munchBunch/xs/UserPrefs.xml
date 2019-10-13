@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F481D64B-CAD0-4578-9041-8BE96D10DA4B}|munchBunch2">
+  <MonoDevelop.Ide.Workbench ActiveDocument="munchBunch2/Startup.cs">
+    <Files>
+      <File FileName="munchBunch2/Models/LoginModel.cs" Line="9" Column="2" />
+      <File FileName="munchBunch2/Startup.cs" Line="53" Column="1" />
+      <File FileName="munchBunch2/Controllers/ValuesController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="munchBunch" expanded="True">
+            <Node name="munchBunch" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.munchBunch PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
